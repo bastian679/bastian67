@@ -23,8 +23,7 @@ y apoyo en seguridad a personas inexpertas
 ### Tecnologías y conceptos
 
 - base de datos 
-- CONOCIMIENTO 2
-- CONOCIMIENTO 3
+
 
 ### Herramientas
 
