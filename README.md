@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Bastian 👋
 
-### Estudiante de Programación | ciberseguridad
+### Estudiante de Programación |   
 
 <!-- Puedes agregar aquí una frase profesional breve. -->
 
@@ -22,7 +22,8 @@ y apoyo en seguridad a personas inexpertas
 
 ### Tecnologías y conceptos
 
-- base de datos 
+- base de datos
+- DISEÑO 3D
 
 
 ### Herramientas
