@@ -24,6 +24,7 @@ y apoyo en seguridad a personas inexpertas
 
 - base de datos
 - DISEÑO 3D
+- soporte de usuarios
 
 
 ### Herramientas
